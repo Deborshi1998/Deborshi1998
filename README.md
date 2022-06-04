@@ -13,7 +13,7 @@
 🧑‍🏭 **I love building stuffs using Binary**
 ## My Skillset
 <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/><img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
-<img src="/Assets/html-5.png"/>
+<img width="48px" height="48px" src="/Assets/html-5.png"/>
 <img 
   align="right"
   width="20%"
