@@ -1,5 +1,10 @@
+<img 
+  align="left"
+  width="100"
+  height="100"
+  src="/Assets/spring-cill.gif"
+>
 
-![](/Assets/spring-cill.gif)
 
 👋 **Hello there, I am Debarshi.** 
 👨‍🎓 A Computer Science Engineering graduate.    
