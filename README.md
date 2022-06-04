@@ -14,7 +14,7 @@
 <hr/>
 <img 
   align="right"
-  width="100%"
-  height="100%"
+  width="20%"
+  height="40%"
   src="/Assets/power-knowledge-is-power.gif"
 />
