@@ -3,7 +3,7 @@
   width="100"
   height="100"
   src="/Assets/spring-cill.gif"
->
+/>
 
 
 👋 **Hello there, I am Debarshi.** 
