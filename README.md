@@ -25,9 +25,6 @@
 
 
 
-
-
-
 <br/><br/><br/><br/>
 ## My Hobbies and Interests
 * Movies
@@ -36,4 +33,7 @@
 * Star Wars
 * Culinary Art
 
+## Contact Me
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:basumatary18@gmail.com)](mailto:basumatary18@gmail.com)
 
