@@ -12,3 +12,9 @@
 🧑‍💻 **Currently working as a Software Engineer in Apisero.**<br/>
 🧑‍🏭 **I love building stuffs using Binary**
 <hr/>
+<img 
+  align="right"
+  width="100%"
+  height="100%"
+  src="/Assets/power-knowledge-is-power.gif"
+/>
