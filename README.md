@@ -1,10 +1,11 @@
+<hr/>
 <img 
   align="center"
   width="100%"
   height="100%"
   src="/Assets/spring-cill.gif"
 />
-
+<hr/>
 
 👋 **Hello there, I am Debarshi.** 
 👨‍🎓 A Computer Science Engineering graduate.    
