@@ -34,8 +34,7 @@
 * **🍱Culinary Art**
 
 ## Contact Me
-<div align="center"> "Mr Watson, come here. I want to see you." <br/>
--By Alexander Graham Bell,1876
+<div align="center"> <img src="/Assets/Alexander%20Graham%20Bell%2C1876.png" />
 </div>
 <a href="https://www.linkedin.com/in/debarshi-raj-basumatary-5b4452166/" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
