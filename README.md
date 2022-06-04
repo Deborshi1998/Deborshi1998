@@ -10,8 +10,7 @@
 ### 👋 **Hello there, I am Debarshi.**<br/>
 👨‍🎓 **A Computer Science & Engineering graduate.**<br/>
 🧑‍💻 **Currently working as a Software Engineer in Apisero.**<br/>
-🧑‍🏭 **I love building stuffs using Binary**
-<hr/>
+🧑‍🏭 **I love building stuffs using Binary**<hr/>
 ## My Skillset
 <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
 <img 
