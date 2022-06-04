@@ -1,6 +1,9 @@
 ### H
 https://github.com/Deborshi1998/Deborshi1998/blob/main/Assets/spring-cill.gif
-![](/Assets/spring-cill.gif)
+Hello there, I am Debarshi. A Computer Science Engineering graduate   ![](/Assets/spring-cill.gif)
+currently working as a software Engineer in Apisero.
+Apart from Coding, I spend my time watching Movies, reading comics and indulging in culinary art.
+
 <!--
 **Deborshi1998/Deborshi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
