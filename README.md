@@ -8,7 +8,7 @@
 <hr/>
 
 👋 **Hello there, I am Debarshi.**<br/>
-👨‍🎓 **A Computer Science Engineering graduate.**<br/>
-🧑‍💻 **Currently working as a software Engineer in Apisero.**<br/>
+👨‍🎓 **A Computer Science & Engineering graduate.**<br/>
+🧑‍💻 **Currently working as a Software Engineer in Apisero.**<br/>
 🧑‍🏭 **I love building stuffs using Binary**
-
+<hr/>
