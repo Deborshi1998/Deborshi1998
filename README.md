@@ -7,10 +7,10 @@
 />
 <hr/>
 
-### :wave: **Hello there, I am Debarshi.**<br/>
-<div style="font-size:5rem;width:100%;text-align:center;">👨‍🎓</div> **A Computer Science & Engineering graduate.**<br/>
-🧑‍💻 **Currently working as a Software Engineer in Apisero.**<br/>
-🧑‍🏭 **I love building stuffs using the secret art of Programming.**
+### :wave: **Hello there, I am Debarshi.**
+### 👨‍🎓 **A Computer Science & Engineering graduate.**
+### 🧑‍💻 **Currently working as a Software Engineer in Apisero.**
+### 🧑‍🏭 **I love building stuffs using the secret art of Programming.**
 ## My Skillset
 <img 
   align="right"
