@@ -20,5 +20,6 @@
   align="right"
   width="20%"
   height="40%"
+  top="-100"
   src="/Assets/power-knowledge-is-power.gif"
 />
