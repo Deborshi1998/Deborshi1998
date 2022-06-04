@@ -31,7 +31,7 @@
 <br/><br/><br/><br/>
 ## My Top Repo
 <a href="https://github.com/Deborshi1998/Sorting-Algo-Visualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deborshi1998&repo=github-readme-stats&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deborshi1998&repo=Sorting-Algo-Visualizer&theme=swift" />
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deborshi1998)](https://github.com/Deborshi1998/github-readme-stats)
 
