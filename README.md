@@ -19,9 +19,9 @@
   margin-top="-100px"
   src="/Assets/power-knowledge-is-power.gif"
 />
-<img width="48px" height="48px"  src="/Assets/javascript-39404.png"/> <img   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img width="48px" height="48px" src="/Assets/html-5.png"/>
-<img width="48px" height="48px" src="/Assets/html5-logo-31821.png"/> <img width="48px" height="48px" src="/Assets/json-file.png"/> <img  src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/><br/>
-<img width="48px" height="48px" src="/Assets/Visual_Studio_Code_1.35_icon.svg.png"/> <img width="48px" height="48px" src="/Assets/java.png"/> <img width="48px" height="48px" src="/Assets/Python-logo-notext.svg"/>
+<img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img width="48px" height="48px" src="/Assets/json-file.png"/> <img  src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/><br/>
+<img width="48px" height="48px" src="/Assets/Visual_Studio_Code_1.35_icon.svg.png"/> <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 
 
