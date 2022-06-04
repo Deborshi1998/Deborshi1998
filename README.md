@@ -10,5 +10,5 @@
 👋 **Hello there, I am Debarshi.**<br/>
 👨‍🎓 **A Computer Science Engineering graduate.**<br/>
 🧑‍💻 **Currently working as a software Engineer in Apisero.**<br/>
-Apart from Coding, I spend my time watching Movies, reading comics and indulging in culinary art.
+🧑‍🏭 **I love building stuffs using Binary**
 
