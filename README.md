@@ -27,11 +27,11 @@
 
 <br/><br/><br/><br/>
 ## My Hobbies and Interests
-* Movies
-* Comics
-* History
-* Star Wars
-* Culinary Art
+* **🍿 Movies**
+* **📚 Comics**
+* **📜 History**
+* **🚀 SpaceX**
+* **🍱Culinary Art**
 
 ## Contact Me
 <a href="https://www.linkedin.com/in/debarshi-raj-basumatary-5b4452166/" >
