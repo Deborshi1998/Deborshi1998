@@ -12,8 +12,8 @@
 🧑‍💻 **Currently working as a Software Engineer in Apisero.**<br/>
 🧑‍🏭 **I love building stuffs using Binary**
 ## My Skillset
-<img src="/Assets/javascript-39404.png"/>
-<img src="/Assets/React-icon.svg"/>
+<img width="44px" height="44px"  src="/Assets/javascript-39404.png"/>
+<img width="44px" height="44px"  src="/Assets/React-icon.svg"/>
 <img width="44px" height="44px" src="/Assets/html-5.png"/>
 <img width="44px" height="44px" src="/Assets/html5-logo-31821.png"/>
 <img width="44px" height="44px" src="/Assets/json-file.png"/>
