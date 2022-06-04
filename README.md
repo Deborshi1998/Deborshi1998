@@ -34,8 +34,8 @@
 * Culinary Art
 
 ## Contact Me
-<a href="https:www.google.com"
+<a href="https:www.google.com" >
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-/>
+</a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
