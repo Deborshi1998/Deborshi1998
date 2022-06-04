@@ -30,6 +30,6 @@
 
 <br/><br/><br/><br/>
 ## My Projects
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deborshi1998)](https://github.com/Deborshi1998/github-readme-stats)
 
 
