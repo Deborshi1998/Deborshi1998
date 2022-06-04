@@ -12,8 +12,14 @@
 🧑‍💻 **Currently working as a Software Engineer in Apisero.**<br/>
 🧑‍🏭 **I love building stuffs using Binary**
 ## My Skillset
-<img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/><img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+<img src="/Assets/javascript-39404.png"/>
+<img src="/Assets/React-icon.svg"/>
 <img width="44px" height="44px" src="/Assets/html-5.png"/>
+<img width="44px" height="44px" src="/Assets/html5-logo-31821.png"/>
+<img width="44px" height="44px" src="/Assets/json-file.png"/>
+<img width="44px" height="44px" src="/Assets/npm-logo-red.png"/>
+<img width="44px" height="44px" src="/Assets/Visual_Studio_Code_1.35_icon.svg.png"/>
+<img width="44px" height="44px" src="/Assets/java.png"/>
 <img 
   align="right"
   width="20%"
