@@ -30,11 +30,5 @@
 
 <br/><br/><br/><br/>
 ## My Top Repo
-<a href="https://github.com/Deborshi1998/Sorting-Algo-Visualizer">
-  <img align="center" src="https://github.com/Deborshi1998/Sorting-Algo-Visualizer/api/pin/?username=Deborshi1998&repo=Sorting-Algo-Visualizer&theme=swift" alt="" />
-</a>
-<a href="https://github.com/Deborshi1998/Sorting-Algo-Visualizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deborshi1998&repo=Sorting-Algo-Visualizer&theme=swift" />
-</a>
 
 
