@@ -3,7 +3,7 @@
   align="center"
   width="100%"
   height="100%"
-  src="https://tenor.com/bSlT7.gif"
+  src="/Assets/welcome.gif"
 />
 <hr/>
 
