@@ -31,7 +31,7 @@
 * **📚 Comics**
 * **📜 History**
 * **🚀 SpaceX**
-* **🍱Culinary Art**
+* **🍱 Culinary Art**
 
 ## Contact Me
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Mr Watson, come here. I want to see you._<br/>
