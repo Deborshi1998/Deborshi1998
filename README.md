@@ -30,7 +30,7 @@
 * **🍿 Movies**
 * **📚 Comics**
 * **📜 History**
-* **🚀 SpaceX**
+* **🎮 Video Game**
 * **🍱 Culinary Art**
 
 ## Contact Me
