@@ -3,11 +3,10 @@
   align="center"
   width="100%"
   height="300vh"
-  src="/Assets/Welcome1.gif"
+  src="/Assets/welcome.gif"
 />
 <hr/>
 
-<video src="/Assets/Untitled.mp4" />
 
 ### :wave: Hello there, I am Debarshi.
 #### *👨‍🎓 A Computer Science & Engineering graduate.
