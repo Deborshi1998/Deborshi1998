@@ -3,7 +3,7 @@
   align="center"
   width="100%"
   height="300vh"
-  src="/Assets/welcome.gif"
+  src="/Assets/welcome101.gif"
 />
 <hr/>
 
