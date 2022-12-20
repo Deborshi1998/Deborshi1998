@@ -2,7 +2,7 @@
 <img 
   align="center"
   width="100%"
-  height="10px"
+  height="50vh"
   src="/Assets/Welcome1.gif"
 />
 <hr/>
