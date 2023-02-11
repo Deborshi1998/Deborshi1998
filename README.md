@@ -1,12 +1,9 @@
 <hr/>
-![ScreenShot](/Assets/welcome101.gif)
-<img 
-  align="center"
-  width="100%"
-  height="300vh"
-  src="/Assets/welcome101.gif"
-/>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/28285868/218267257-63f91c32-16a5-4507-a6e4-6431fa6192c4.gif)
+
 <hr/>
+
 
 
 ### :wave: Hello there, I am Debarshi.
