@@ -1,4 +1,5 @@
 <hr/>
+![ScreenShot](/Assets/welcome101.gif)
 <img 
   align="center"
   width="100%"
