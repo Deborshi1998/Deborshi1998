@@ -12,8 +12,10 @@
 #### *🧑‍💻 Currently working as a Software Engineer in Apisero.
 #### *🧑‍🏭 I love building stuffs using the secret art of Programming.
 ## My Skillset
+![Uploading power-knowledge-is-power .gif…]()
 <img 
   align="right"
+
   width="20%"
   height="40%"
   margin-top="-100px"
