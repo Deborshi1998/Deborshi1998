@@ -1,6 +1,6 @@
 <hr/>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/28285868/218267257-63f91c32-16a5-4507-a6e4-6431fa6192c4.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/28285868/218267257-63f91c32-16a5-4507-a6e4-6431fa6192c4.gif = 250x250)
 
 <hr/>
 
