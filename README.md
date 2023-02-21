@@ -13,7 +13,6 @@
 #### *🧑‍🏭 I love building stuffs using the secret art of Programming.
 ## My Skillset
 
-![power-knowledge-is-power ](https://user-images.githubusercontent.com/28285868/218307939-58d23e09-af99-46d2-be70-56337420b659.gif)
 
 
 <img 
